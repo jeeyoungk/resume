@@ -23,15 +23,16 @@ Work Experience
 
 ### Software Engineer, Payments - Square (2013-2014)
 
-* Jack of all trades infrastructure engineer.
 * Wrote and maintained the core payments processing infrastructure.
 * Evaluated and operationalized various databases for Square's next generation payments processing service.
 * Created various internal tools to make teammates more efficient.
+* Successfully migrated multiple services from one datacenter to another.
 * **Tools**: MySQL, PostgreSQL, Java, Riak
 
 ### Cofounder - Polychart Inc (2012)
 
-* Technical cofounder in a data visualization startup. Was responsible for most of programming & operation work.
+* Technical cofounder in a data visualization startup. 
+* Was responsible for most of the programming & operational tasks.
 * Built a data visualization tool around grammar of graphics by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, loosely based on Hadley Wickham's ggplot2.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
