@@ -19,10 +19,12 @@ Work Experience
 
 ### Software Engineer, Visibility - Square (2014-current)
 
+* San Francisco, CA
 * **Tools**: Golang, Javascript, Graphite, AngularJS
 
 ### Software Engineer, Payments - Square (2013-2014)
 
+* San Francisco, CA
 * Wrote and maintained the core payments processing infrastructure.
 * Evaluated and operationalized databases for Square's next generation payments processing service.
 * Created various internal tools to make teammates more efficient.
@@ -31,35 +33,40 @@ Work Experience
 
 ### Cofounder - Polychart Inc (2012)
 
+* Waterloo, ON
 * Technical cofounder in a data visualization startup. 
 * Was responsible for most of the programming & operational tasks.
 * Built a data visualization tool around grammar of graphics by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, loosely based on Hadley Wickham's ggplot2.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
 
-### Software Engineer Intern - Google (2010)
+### Software Engineer Intern - ContextLogic _(2011)_
 
-* Built a latency profiling framework for Google App for Business team.
-* Created RPC trace analysis and validation tool as part of the above project.
-* **Tools**: Java, Python, Google Internal Tools.
-
-### Software Engineer Intern - ContextLogic (2011)
-
+* San Francisco, CA
 * Early stage startup on targeted ads with focus in NLP.
 * Generated training data for document classification algorithm from public corpuses.
 * Created internal web tools to manage Hadoop jobs.
 * Created a tool to visualize the topic inferencing algorithm.
 * **Tools**: Python, C++, JavaScript, Hadoop, Hive, Amazon EC2.
 
-### Software Engineer Intern - Foodoro (2010)
+### Software Engineer Intern - Google _(2010)_
 
+* Mountain View, CA
+* Built a latency profiling framework for Google App for Business team.
+* Created RPC trace analysis and validation tool as part of the above project.
+* **Tools**: Java, Python, Google Internal Tools.
+
+
+### Software Engineer Intern - Foodoro _(2010)_
+
+* San Francisco, CA
 * Created social e-commerce website around aggregating social commerce websites.
 * **Tools**: Python, Django, JavaScript
 
 Education
 ---------
 
-### Bachelor of Mathematics - University of Waterloo _(2017-2012)_
+### Bachelor of Mathematics - University of Waterloo _(2007-2012)_
 
 * Waterloo, ON, Canada
 * Bachelor of Mathematics, Joint Computer Science & Pure Mathematics
