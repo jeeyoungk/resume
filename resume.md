@@ -62,9 +62,15 @@ Education
 Technical
 ---------
 
-Languages: Proficient in Java, Python, JavaScript, Coffeescript. Familiar with C++, Matlab, R.
-Tools: Shell Scripting, LAMP stack, Amazon EC2, Hadoop, MapReduce, Hive, Selenium/webdriver, GWT, Hibernate, Django, D3.js, node.js, knockout.js.
-Databases : MySQL, Postgres, Riak.
+* *Languages*: Proficient in Java, Python, JavaScript, Coffeescript. Familiar with C++, Matlab, R.
+* *Tools*: Shell Scripting, LAMP stack, Amazon EC2, Hadoop, MapReduce, Hive, Selenium/webdriver, GWT, Hibernate, Django, D3.js, node.js, knockout.js.
+* *Databases* : MySQL, Postgres, Riak.
+
+|          |      Good   |  Bad |
+|----------|-------------|------|
+| Languages|  left-aligne| $1600|
+| Tools    |    centered |   $12|
+| Databases| right-aligne|    $1|
 
 Awards / Scholarship
 --------------------
