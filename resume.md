@@ -24,7 +24,7 @@ Work Experience
 ### Software Engineer, Payments - Square (2013-2014)
 
 * Wrote and maintained the core payments processing infrastructure.
-* Evaluated and operationalized various databases for Square's next generation payments processing service.
+* Evaluated and operationalized databases for Square's next generation payments processing service.
 * Created various internal tools to make teammates more efficient.
 * Successfully migrated the entire stack from one datacenter to another.
 * **Tools**: MySQL, PostgreSQL, Java, Riak
