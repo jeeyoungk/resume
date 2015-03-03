@@ -17,10 +17,18 @@ At the end of the day, I'm a generalist in heart. I still have much to learn, an
 Work Experience
 ---------------
 
-### Software Engineer - Square (2013-current)
+### Software Engineer, Visibility - Square (2014-current)
 
-* Everything infrastructure-y. Writing OLTP systems, evaluating and operationalizing databases, internal dashboards.
-* Tools: MySQL, Postgres, Riak, Graphite, AngularJS.
+* Tools: Golang, Javascript, Graphite, AngularJS
+
+### Software Engineer, Payments - Square (2013-2014)
+
+* Jack of all trades infrastructure engineer.
+* Wrote and maintained the core payments processing infrastructure.
+* Evaluated and operationalized various databases for Square's next generation payments processing service.
+* Created various internal tools to make teammates more efficient.
+
+* **Tools**: MySQL, PostgreSQL, Java, Riak
 
 ### Cofounder - Polychart Inc (2012)
 
@@ -28,7 +36,7 @@ Work Experience
 * Built a data visualization tool around grammar of graphics by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, loosely benchmarking Hadley Wickham's ggplot2.
 * Managed servers and created deploy processes.
-* Tools: Coffeescript, Python, SVG, d3.js, knockout.js.
+* **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
 
 ### Software Engineer Intern - Google (2010)
 
@@ -52,7 +60,7 @@ Work Experience
 Education
 ---------
 
-### Computer Science and Pure Mathematics - University of Waterloo.
+### Computer Science and Pure Mathematics - University of Waterloo
 
 * Waterloo, ON, Canada (2007 - 2012)
 * Co-operative Program.
@@ -64,8 +72,8 @@ Technical
 
 |           | Good        | Knows enough to be dangerous|
 |-----------|-------------|-----------------------------|
-| Languages | Java, Python, Javascript(Coffeescript), Golang, lesscss | C++, Matlab, R, Ruby |
-| Tools     | Shell Scripting, node.js ecosystem, Angular.js, Django, Guice , d3.js, Knockout.js |  EC2, Selenium / webdriver, GWT |
+| Languages | Java, Python, Javascript(Coffeescript), Golang, Less-css | C++, Matlab, R, Ruby |
+| Libraries & Frameworks | Node.js ecosystem, Angular.js, Django, Guice, d3.js, Knockout.js, Protocol Buffer |  EC2, Selenium / webdriver, GWT |
 | Databases | MySQL, Cassandra, Riak | PostgreSQL, Kafka |
 
 
