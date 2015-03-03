@@ -59,9 +59,8 @@ Work Experience
 Education
 ---------
 
-### Computer Science and Pure Mathematics - University of Waterloo
-
-* Waterloo, ON, Canada (2007 - 2012)
+### Bachelor of Mathematics - University of Waterloo _Waterloo, ON, Canada (2007 - 2012)_
+* Bachelor of Mathematics, Joint Computer Science & Pure Mathematics
 * Co-operative Program.
 * Graduated with Distinction - Dean's Honour List.
 * Major Average: 91.2
