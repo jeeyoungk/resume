@@ -26,7 +26,7 @@ Work Experience
 * Wrote and maintained the core payments processing infrastructure.
 * Evaluated and operationalized various databases for Square's next generation payments processing service.
 * Created various internal tools to make teammates more efficient.
-* Successfully migrated multiple services from one datacenter to another.
+* Successfully migrated the entire stack from one datacenter to another.
 * **Tools**: MySQL, PostgreSQL, Java, Riak
 
 ### Cofounder - Polychart Inc (2012)
