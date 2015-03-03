@@ -8,23 +8,29 @@ jeeyoungk@gmail.com / https://kimjeeyoung.com / https://github.com/jeeyoungk
 Summary
 -------
 
-An avid software engineer. My interests span from software development to algorithms and mathematics. Challenging real life problems fascinate me. I love working with different levels of abstractions at once.
+An avid engineer. My interests span from software development to algorithms and mathematics. Challenging real life problems fascinate me. I love working with different levels of abstractions at once.
 
 I was very fortunate to have a diverse set of internship while attending University of Waterloo. Started off as a simple software engineer in test automation and web development, but I gradually specialized into infrastructures and big data applications. I spent a year after graduation on Polychart, a data visualization startup.
+
+My current interests are:
+
+* Distributed Systems
+* Database Systems
+* Time-series Databases
 
 At the end of the day, I'm a generalist in heart. I still have much to learn, and I would love to dedicate my passion towards the company and the product that I believe in.
 
 Work Experience
 ---------------
 
-### Software Engineer, Visibility - Square _(2014-current)_
+### Computer Systems Analyst, Visibility - Square _(2014-current)_
 
 _San Francisco, CA_
 
 * Responsible for Square's infrastructure monitoring & alerting.
 * **Tools**: Golang, Javascript, Graphite, AngularJS
 
-### Software Engineer, Payments - Square _(2013-2014)_
+### Computer Systems Analyst, Payments - Square _(2013-2014)_
 
 _San Francisco, CA_
 * Wrote and maintained the core payments processing infrastructure.
