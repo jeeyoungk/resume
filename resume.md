@@ -59,7 +59,9 @@ Work Experience
 Education
 ---------
 
-### Bachelor of Mathematics - University of Waterloo _Waterloo, ON, Canada (2007 - 2012)_
+### Bachelor of Mathematics - University of Waterloo _(2017-2012)_
+
+* Waterloo, ON, Canada
 * Bachelor of Mathematics, Joint Computer Science & Pure Mathematics
 * Co-operative Program.
 * Graduated with Distinction - Dean's Honour List.
