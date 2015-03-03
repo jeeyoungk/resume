@@ -62,11 +62,11 @@ Education
 Technical
 ---------
 
-|          | Good        | Knows enough to be dangerous|
-|----------|-------------|-----------------------------|
-| Languages| Java, Python, Javascript(Coffeescript), Golang, lesscss | C++, Matlab, R, Ruby |
-| Tools    | Shell Scripting, node.js ecosystem, Angular.js, Django, Guice , d3.js, Knockout.js |  EC2, Selenium / webdriver, GWT |
-| Databases| MySQL, Cassandra, Riak, | Postgres, Kafka |
+|           | Good        | Knows enough to be dangerous|
+|-----------|-------------|-----------------------------|
+| Languages | Java, Python, Javascript(Coffeescript), Golang, lesscss | C++, Matlab, R, Ruby |
+| Tools     | Shell Scripting, node.js ecosystem, Angular.js, Django, Guice , d3.js, Knockout.js |  EC2, Selenium / webdriver, GWT |
+| Databases | MySQL, Cassandra, Riak | PostgreSQL, Kafka |
 
 
 Awards / Scholarship
