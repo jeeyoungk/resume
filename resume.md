@@ -31,10 +31,9 @@ Work Experience
 
 ### Cofounder - Polychart Inc (2012)
 
-* Technical cofounder in a data visualization startup.
+* Technical cofounder in a data visualization startup. Was responsible for most of programming & operation work.
 * Built a data visualization tool around grammar of graphics by Wilkinson.
-* Built a JavaScript charting library focused on customizability and expressiveness, loosely benchmarking Hadley Wickham's ggplot2.
-* Managed servers and created deploy processes.
+* Built a JavaScript charting library focused on customizability and expressiveness, loosely based on Hadley Wickham's ggplot2.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
 
 ### Software Engineer Intern - Google (2010)
