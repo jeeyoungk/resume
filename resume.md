@@ -20,6 +20,8 @@ Work Experience
 ### Software Engineer, Visibility - Square _(2014-current)_
 
 _San Francisco, CA_
+
+* Responsible for Square's infrastructure monitoring & alerting.
 * **Tools**: Golang, Javascript, Graphite, AngularJS
 
 ### Software Engineer, Payments - Square _(2013-2014)_
@@ -60,7 +62,7 @@ _Mountain View, CA_
 ### Software Engineer Intern - Foodoro _(2010)_
 
 _San Francisco, CA_
-* Created social e-commerce website around aggregating social commerce websites.
+* Created an e-commerce website around aggregating social commerce websites.
 * **Tools**: Python, Django, JavaScript
 
 Education
@@ -69,9 +71,8 @@ Education
 ### Bachelor of Mathematics - University of Waterloo _(2007-2012)_
 
 _Waterloo, ON_
-* Bachelor of Mathematics, Joint Computer Science & Pure Mathematics
-* Co-operative Program.
-* Graduated with Distinction - Dean's Honour List.
+* Bachelor of Mathematics, Joint Computer Science & Pure Mathematics (Co-operative program)
+* Graduated with Distinction - Dean's Honour List
 * Major Average: 91.2
 
 Technical
