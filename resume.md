@@ -19,7 +19,7 @@ Work Experience
 
 ### Software Engineer, Visibility - Square _(2014-current)_
 
-_San Francisco, CA_
+#### _San Francisco, CA_
 * **Tools**: Golang, Javascript, Graphite, AngularJS
 
 ### Software Engineer, Payments - Square _(2013-2014)_
