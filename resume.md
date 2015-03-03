@@ -17,12 +17,12 @@ At the end of the day, I'm a generalist in heart. I still have much to learn, an
 Work Experience
 ---------------
 
-### Software Engineer, Visibility - Square (2014-current)
+### Software Engineer, Visibility - Square _(2014-current)_
 
 * San Francisco, CA
 * **Tools**: Golang, Javascript, Graphite, AngularJS
 
-### Software Engineer, Payments - Square (2013-2014)
+### Software Engineer, Payments - Square _(2013-2014)_
 
 * San Francisco, CA
 * Wrote and maintained the core payments processing infrastructure.
@@ -31,7 +31,7 @@ Work Experience
 * Successfully migrated the entire stack from one datacenter to another.
 * **Tools**: MySQL, PostgreSQL, Java, Riak
 
-### Cofounder - Polychart Inc (2012)
+### Cofounder - Polychart _(2012)_
 
 * Waterloo, ON
 * Technical cofounder in a data visualization startup. 
