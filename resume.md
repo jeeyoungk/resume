@@ -19,12 +19,12 @@ Work Experience
 
 ### Software Engineer, Visibility - Square _(2014-current)_
 
-#### _San Francisco, CA_
+_San Francisco, CA_
 * **Tools**: Golang, Javascript, Graphite, AngularJS
 
 ### Software Engineer, Payments - Square _(2013-2014)_
 
-* San Francisco, CA
+_San Francisco, CA_
 * Wrote and maintained the core payments processing infrastructure.
 * Evaluated and operationalized databases for Square's next generation payments processing service.
 * Created various internal tools to make teammates more efficient.
@@ -33,7 +33,7 @@ Work Experience
 
 ### Cofounder - Polychart _(2012)_
 
-* Waterloo, ON
+_Waterloo, ON_
 * Technical cofounder in a data visualization startup. 
 * Was responsible for most of the programming & operational tasks.
 * Built a data visualization tool around grammar of graphics by Wilkinson.
@@ -42,7 +42,7 @@ Work Experience
 
 ### Software Engineer Intern - ContextLogic _(2011)_
 
-* San Francisco, CA
+_San Francisco, CA_
 * Early stage startup on targeted ads with focus in NLP.
 * Generated training data for document classification algorithm from public corpuses.
 * Created internal web tools to manage Hadoop jobs.
@@ -51,7 +51,7 @@ Work Experience
 
 ### Software Engineer Intern - Google _(2010)_
 
-* Mountain View, CA
+_Mountain View, CA_
 * Built a latency profiling framework for Google App for Business team.
 * Created RPC trace analysis and validation tool as part of the above project.
 * **Tools**: Java, Python, Google Internal Tools.
@@ -59,7 +59,7 @@ Work Experience
 
 ### Software Engineer Intern - Foodoro _(2010)_
 
-* San Francisco, CA
+_San Francisco, CA_
 * Created social e-commerce website around aggregating social commerce websites.
 * **Tools**: Python, Django, JavaScript
 
@@ -68,7 +68,7 @@ Education
 
 ### Bachelor of Mathematics - University of Waterloo _(2007-2012)_
 
-* Waterloo, ON, Canada
+_Waterloo, ON_
 * Bachelor of Mathematics, Joint Computer Science & Pure Mathematics
 * Co-operative Program.
 * Graduated with Distinction - Dean's Honour List.
