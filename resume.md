@@ -19,7 +19,7 @@ Work Experience
 
 ### Software Engineer, Visibility - Square (2014-current)
 
-* Tools: Golang, Javascript, Graphite, AngularJS
+* **Tools**: Golang, Javascript, Graphite, AngularJS
 
 ### Software Engineer, Payments - Square (2013-2014)
 
@@ -27,7 +27,6 @@ Work Experience
 * Wrote and maintained the core payments processing infrastructure.
 * Evaluated and operationalized various databases for Square's next generation payments processing service.
 * Created various internal tools to make teammates more efficient.
-
 * **Tools**: MySQL, PostgreSQL, Java, Riak
 
 ### Cofounder - Polychart Inc (2012)
