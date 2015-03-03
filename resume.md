@@ -35,7 +35,7 @@ _San Francisco, CA_
 
 _Waterloo, ON_
 * Technical cofounder in a data visualization startup. 
-* Was responsible for most of the programming & operational tasks.
+* Responsible for most of the programming & operational tasks.
 * Built a data visualization tool around grammar of graphics by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, loosely based on Hadley Wickham's ggplot2.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
