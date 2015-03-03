@@ -94,7 +94,7 @@ Technical
 Awards / Scholarship
 --------------------
 
-* Velocity Venture Fund - $25,000 CAD grant, given by University of Waterloo, to fund student initiated startups.
+* Velocity Venture Fund - $25,000 grant from University of Waterloo to fund student initiated startups.
 * University of Waterloo President's Scholarship
 * Nortel Networks Undergraduate Scholarship
 * Queen Elizabeth II Aiming for the Top Scholarship
