@@ -1,7 +1,7 @@
 Jeeyoung Kim
 ============
 
-jeeyoungk@gmail.com / kimjeeyoung.com / * github.com/jeeyoungk
+jeeyoungk@gmail.com / https://kimjeeyoung.com / https://github.com/jeeyoungk
 
 Summary
 -------
