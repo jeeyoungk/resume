@@ -23,28 +23,29 @@ At the end of the day, I'm a generalist in heart. I still have much to learn, an
 Work Experience
 ---------------
 
-### Computer Systems Analyst, Visibility - Square _(2014-current)_
+### Engineer, Visibility - Square _(2014-current)_
 
 _San Francisco, CA_
 
-* Responsible for Square's infrastructure monitoring & alerting.
-* **Tools**: Golang, Javascript, Graphite, AngularJS
+* Metrics, monitoring, and alerting.
+* **Tools**: Golang, Angular, Graphite, Cassandra
 
-### Computer Systems Analyst, Payments - Square _(2013-2014)_
+### Engineer, Payments - Square _(2013-2014)_
 
 _San Francisco, CA_
-* Wrote and maintained the core payments processing infrastructure.
+
+* Core payments processin infrastructure.
 * Evaluated and operationalized databases for Square's next generation payments processing service.
-* Created various internal tools to make teammates more efficient.
-* Successfully migrated the entire stack from one datacenter to another.
-* **Tools**: MySQL, PostgreSQL, Java, Riak
+* Successfully migrated the entire payments stack from one datacenter to another.
+* **Tools**: MySQL, PostgreSQL, Riak, Cassandra, Java
 
 ### Cofounder - Polychart _(2012)_
 
 _Waterloo, ON_
-* Technical cofounder in a data visualization startup. 
+
+* Technical Cofounder focused on Data Visualization.
 * Responsible for most of the programming & operational tasks.
-* Built a data visualization tool around grammar of graphics by Wilkinson.
+* Built a data visualization tool around Grammar of Graphics by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, loosely based on Hadley Wickham's ggplot2.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
 
@@ -55,15 +56,14 @@ _San Francisco, CA_
 * Generated training data for document classification algorithm from public corpuses.
 * Created internal web tools to manage Hadoop jobs.
 * Created a tool to visualize the topic inferencing algorithm.
-* **Tools**: Python, C++, JavaScript, Hadoop, Hive, Amazon EC2.
+* **Tools**: Python, C++, JavaScript, Hadoop, Hive, EC2.
 
 ### Software Engineer Intern - Google _(2010)_
 
 _Mountain View, CA_
 * Built a latency profiling framework for Google App for Business team.
 * Created RPC trace analysis and validation tool as part of the above project.
-* **Tools**: Java, Python, Google Internal Tools.
-
+* **Tools**: Java, Python
 
 ### Software Engineer Intern - Foodoro _(2010)_
 
