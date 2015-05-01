@@ -1,9 +1,9 @@
-_Last Updated Date: Mar 3, 2015_
+_Last Updated Date: April 30, 2015_
 
 Jeeyoung Kim
 ============
 
-jeeyoungk@gmail.com / https://kimjeeyoung.com / https://github.com/jeeyoungk
+jeeyoungk@gmail.com / https://medium.com/@jeeyoungk / https://github.com/jeeyoungk
 
 Summary
 -------
