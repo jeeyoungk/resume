@@ -1,4 +1,4 @@
-_Last Updated Date: April 30, 2015_
+_Last Updated Date: July 22, 2015_
 
 Jeeyoung Kim
 ============
@@ -28,6 +28,7 @@ Work Experience
 _San Francisco, CA_
 
 * Metrics, monitoring, and alerting.
+* Lead Developer of [square/metrics](https://github.com/square/metrics).
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
 ### Engineer, Payments - Square _(2013-2014)_
