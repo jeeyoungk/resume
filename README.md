@@ -1,4 +1,4 @@
-_Last Updated Date: July 22, 2015_
+_Last Updated Date: July 31st, 2015_
 
 Jeeyoung Kim
 ============
@@ -22,6 +22,13 @@ At the end of the day, I'm a generalist in heart. I still have much to learn, an
 
 Work Experience
 ---------------
+
+### Engineer, Data Platform - Square _(2015-current)_
+
+_San Francisco, CA_
+
+* Data Warehousing.
+* **Tools**: Java, Amazon Redshift
 
 ### Engineer, Visibility - Square _(2014-current)_
 
