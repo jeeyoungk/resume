@@ -34,8 +34,10 @@ _San Francisco, CA_
 
 _San Francisco, CA_
 
-* Metrics, monitoring, and alerting.
+* **Theme**: Metrics, monitoring, and alerting.
 * Lead Developer of [square/metrics](https://github.com/square/metrics).
+* Successfully developed and deployed Cassandra based metrics system.
+* Provisioned and operated ~20 node Cassandra cluster.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
 ### Engineer, Payments - Square _(2013-2014)_
