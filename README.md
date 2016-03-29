@@ -48,9 +48,10 @@ _San Francisco, CA_
 * **Theme**: Scalability, Reliability, Payments Integration.
 * Core payments processing infrastructure.
 * Server side development of Apple Pay support for Square's NFC card reader.
-* Evaluated and operationalized databases for Square's next generation payments processing service.
+* Evaluated databases for Square's next generation payments processing service.
 * Successfully migrated the entire payments stack from one datacenter to another.
-* Designed and optimized queries for MySQL and PostgreSQL.
+* Optimized queries for MySQL and PostgreSQL.
+* Implemented Zookeeper based dynamic configuration deployment system.
 * **Tools**: MySQL, PostgreSQL, Riak, Cassandra, Java
 
 ### Cofounder - Polychart _(2012)_
@@ -104,8 +105,8 @@ Technical
 | Java Ecosystem | Hibernate, JooQ, Guice, Maven | Selenium / Webdriver , GWT |
 | Web Ecosystem | Node.js, Angular.js, Django, d3.js, Knockout.js, R, CSS transpilers (Less, Sass) | React |
 | Libraries & Frameworks | Serialization Formats (Protocol Buffer, Avro, Thrift, Flatbuffers) | EC2 |
-| Data Warehousing | Airflow |  Spark, Hadoop |
-| Databases | MySQL, Cassandra, Riak, Graphite, Redshift, Hive, Schema Migrations | PostgreSQL, Kafka, Vertica, HBase |
+| Data Warehousing | Airflow, Apache Hive |  Spark, Hadoop |
+| Databases | MySQL, Cassandra, Riak, Graphite, Amazon Redshift, Apache Zookeeper, Schema Migrations | PostgreSQL, Kafka, Vertica, HBase |
 
 
 Awards / Scholarship
