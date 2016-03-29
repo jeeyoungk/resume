@@ -45,9 +45,12 @@ _San Francisco, CA_
 
 _San Francisco, CA_
 
-* Core payments processin infrastructure.
+* **Theme**: Scalability, Reliability, Payments Integration.
+* Core payments processing infrastructure.
+* Server side development of Apple Pay support for Square's NFC card reader.
 * Evaluated and operationalized databases for Square's next generation payments processing service.
 * Successfully migrated the entire payments stack from one datacenter to another.
+* Designed and optimized queries for MySQL and PostgreSQL.
 * **Tools**: MySQL, PostgreSQL, Riak, Cassandra, Java
 
 ### Cofounder - Polychart _(2012)_
