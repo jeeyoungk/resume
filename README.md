@@ -100,6 +100,7 @@ Technical
 | Languages | Java, Python, Javascript (Coffeescript), Golang, Less-css | C++, Matlab, R, Ruby |
 | Java Ecosystem | Hibernate, JooQ, Guice, | Selenium / Webdriver , GWT |
 | Libraries & Frameworks | Node.js ecosystem, Angular.js, Django, d3.js, Knockout.js, Protocol Buffer |  EC2 |
+| Data Warehousing | |  Spark, Hadoop |
 | Databases | MySQL, Cassandra, Riak, Graphite, Redshift, Hive | PostgreSQL, Kafka, Vertica |
 
 
