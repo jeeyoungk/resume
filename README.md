@@ -100,9 +100,9 @@ Technical
 
 |           | Good        | Knows enough to be dangerous|
 |-----------|-------------|-----------------------------|
-| Languages | Java, Python, Javascript (Coffeescript), Golang, Less-css | C++, Matlab, R, Ruby |
-| Java Ecosystem | Hibernate, JooQ, Guice, | Selenium / Webdriver , GWT |
-| Web Ecosystem | Node.js, Angular.js, Django, d3.js, Knockout.js, R, | React |
+| Languages | Java, Python, Javascript (Coffeescript + ES5), Golang | C++, Matlab, R, Ruby, Scala, Kotlin |
+| Java Ecosystem | Hibernate, JooQ, Guice, Maven | Selenium / Webdriver , GWT |
+| Web Ecosystem | Node.js, Angular.js, Django, d3.js, Knockout.js, R, CSS transpilers (Less, Sass) | React |
 | Libraries & Frameworks | Serialization Formats (Protocol Buffer, Avro, Thrift, Flatbuffers) | EC2 |
 | Data Warehousing | Airflow |  Spark, Hadoop |
 | Databases | MySQL, Cassandra, Riak, Graphite, Redshift, Hive, Schema Migrations | PostgreSQL, Kafka, Vertica, HBase |
