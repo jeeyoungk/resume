@@ -28,16 +28,17 @@ Work Experience
 _San Francisco, CA_
 
 * Data Warehousing.
-* **Tools**: Java, Amazon Redshift
+* **Tools**: Java, Amazon Redshift, EC2
 
 ### Engineer, Visibility - Square _(2014-current)_
 
 _San Francisco, CA_
 
 * **Theme**: Metrics, monitoring, and alerting.
-* Lead Developer of [square/metrics](https://github.com/square/metrics).
-* Successfully developed and deployed Cassandra based metrics system.
+* Lead Developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
+* Successfully developed and deployed Cassandra based metrics system handling 100k events per / second.
 * Provisioned and operated ~20 node Cassandra cluster.
+* Bootstrapped and maintained Go ecosystem.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
 ### Engineer, Payments - Square _(2013-2014)_
