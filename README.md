@@ -98,7 +98,7 @@ Technical
 |-----------|-------------|-----------------------------|
 | Languages | Java, Python, Javascript (Coffeescript), Golang, Less-css | C++, Matlab, R, Ruby |
 | Libraries & Frameworks | Node.js ecosystem, Angular.js, Django, Guice, d3.js, Knockout.js, Protocol Buffer |  EC2, Selenium / webdriver, GWT |
-| Databases | MySQL, Cassandra, Riak, Graphite | PostgreSQL, Kafka |
+| Databases | MySQL, Cassandra, Riak, Graphite, Redshift, Hive | PostgreSQL, Kafka, Vertica |
 
 
 Awards / Scholarship
