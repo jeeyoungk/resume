@@ -103,9 +103,9 @@ Technical
 | Languages | Java, Python, Javascript (Coffeescript), Golang, Less-css | C++, Matlab, R, Ruby |
 | Java Ecosystem | Hibernate, JooQ, Guice, | Selenium / Webdriver , GWT |
 | Web Ecosystem | Node.js, Angular.js, Django, d3.js, Knockout.js, R, | React |
-| Libraries & Frameworks | Serialization Formats (Protocol Buffer) | EC2 |
+| Libraries & Frameworks | Serialization Formats (Protocol Buffer, Avro, Thrift, Flatbuffers) | EC2 |
 | Data Warehousing | Airflow |  Spark, Hadoop |
-| Databases | MySQL, Cassandra, Riak, Graphite, Redshift, Hive | PostgreSQL, Kafka, Vertica, HBase |
+| Databases | MySQL, Cassandra, Riak, Graphite, Redshift, Hive, Schema Migrations | PostgreSQL, Kafka, Vertica, HBase |
 
 
 Awards / Scholarship
