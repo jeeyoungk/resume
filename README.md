@@ -106,7 +106,7 @@ Technical
 | Web Ecosystem | Node.js, Angular.js, Django, d3.js, Knockout.js, R, CSS transpilers (Less, Sass) | React |
 | Libraries & Frameworks | Serialization Formats (Protocol Buffer, Avro, Thrift, Flatbuffers) | EC2 |
 | Data Warehousing | Airflow, Apache Hive |  Spark, Hadoop |
-| Databases | MySQL, Cassandra, Riak, Graphite, Amazon Redshift, Apache Zookeeper, Schema Migrations | PostgreSQL, Kafka, Vertica, HBase |
+| Databases | MySQL, Cassandra, Riak, Graphite, Amazon Redshift, Apache Zookeeper, Schema Migrations | Redis, PostgreSQL, Kafka, Vertica, HBase |
 
 
 Awards / Scholarship
