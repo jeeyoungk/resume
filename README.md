@@ -36,7 +36,7 @@ _San Francisco, CA_
 
 * **Theme**: Metrics, monitoring, and alerting.
 * Lead Developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
-* Successfully developed and deployed Cassandra based metrics system handling 100k events per / second.
+* Successfully developed and deployed Cassandra based metrics system handling 100,000 events / second.
 * Provisioned and operated ~20 node Cassandra cluster.
 * Bootstrapped and maintained Go ecosystem.
 * **Tools**: Golang, Angular, Graphite, Cassandra
