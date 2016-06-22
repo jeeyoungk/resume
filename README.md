@@ -1,4 +1,4 @@
-_Last Updated Date: Mar 29th, 2016_
+_Last Updated Date: June 21st, 2016_
 
 Jeeyoung Kim
 ============
@@ -23,14 +23,20 @@ At the end of the day, I'm a generalist in heart. I still have much to learn, an
 Work Experience
 ---------------
 
-### Engineer, Data Platform - Square _(2015-current)_
+### Engineering Manager, Data & Tools - Square _(2016-current)_
 
 _San Francisco, CA_
 
 * Data Warehousing.
-* **Tools**: Java, Amazon Redshift, EC2
 
-### Engineer, Visibility - Square _(2014-current)_
+### Software Engineer, Data Infrastructure - Square _(2015-2016)_
+
+_San Francisco, CA_
+
+* Data Warehousing.
+* **Tools**: Java, Amazon Redshift, Vertica, EC2
+
+### Software Engineer, Visibility - Square _(2014-current)_
 
 _San Francisco, CA_
 
@@ -41,7 +47,7 @@ _San Francisco, CA_
 * Bootstrapped and maintained Go ecosystem.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
-### Engineer, Payments - Square _(2013-2014)_
+### Software Engineer, Payments - Square _(2013-2014)_
 
 _San Francisco, CA_
 
@@ -105,7 +111,7 @@ Technical
 | Java Ecosystem | Hibernate, JooQ, Guice, Maven | Selenium / Webdriver , GWT |
 | Web Ecosystem | Node.js, Angular.js, Django, d3.js, Knockout.js, R, CSS transpilers (Less, Sass) | React |
 | Libraries & Frameworks | Serialization Formats (Protocol Buffer, Avro, Thrift, Flatbuffers) | EC2 |
-| Data Warehousing | Airflow, Apache Hive |  Spark, Hadoop |
+| Data Warehousing | Airflow, Apache Hive | Spark, Hadoop |
 | Databases | MySQL, Cassandra, Riak, Graphite, Amazon Redshift, Apache Zookeeper, Schema Migrations | Redis, PostgreSQL, Kafka, Vertica, HBase |
 
 
