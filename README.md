@@ -1,4 +1,4 @@
-_Last Updated Date: June 21st, 2016_
+_Last Updated Date: July 22nd, 2016_
 
 Jeeyoung Kim
 ============
@@ -14,6 +14,7 @@ I was very fortunate to have a diverse set of internship while attending Univers
 
 My current interests are:
 
+* Data Warehousing
 * Distributed Systems
 * Database Systems
 * Time-series Databases
@@ -23,73 +24,62 @@ At the end of the day, I'm a generalist in heart. I still have much to learn, an
 Work Experience
 ---------------
 
-### Engineering Manager, Data & Tools - Square _(2016-current)_
+### Engineering Manager, Data & Tools - Square _(2016-current)_ - San Francisco, CA
 
-_San Francisco, CA_
-
-* Data Warehousing.
-
-### Software Engineer, Data Infrastructure - Square _(2015-2016)_
-
-_San Francisco, CA_
-
-* Data Warehousing.
+* **Theme**: Data warehousing.
+* Managed a team of 5 engineers and core data warehousing systems managing petabytes of data.
+* **Lead the Hadoop modernization project**: MRv1 to YARN migration, Hive upgrade, disaster recovery, and datacenter migration.
+* Lead data growth control and audit project across 10+ engineering teams.
 * **Tools**: Java, Amazon Redshift, Vertica, EC2
 
-### Software Engineer, Visibility - Square _(2014-current)_
+### Tech Lead, Software Engineer, Data Infrastructure - Square _(2015-2016)_ - San Francisco, CA
 
-_San Francisco, CA_
+* **Theme**: Data pipeline.
+* **Lead the next-generation data warehousing project**: Exported Square's data to Amazon S3 and Redshift.
+* **Lead the next-generation data pipeline project**: The system transports terabytes of data per day, featuring efficient binary protocol via Avro, reliable data delivery via Kafka, dynamic schema changes, and integration with muliple systems including Hive and Vertica.
+* **Tools**: Java, Amazon Redshift, Vertica, EC2
+
+### Tech Lead, Software Engineer, Visibility - Square _(2014-2015)_ - San Francisco, CA
 
 * **Theme**: Metrics, monitoring, and alerting.
-* Lead Developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
-* Successfully developed and deployed Cassandra based metrics system handling 100,000 events / second.
-* Provisioned and operated ~20 node Cassandra cluster.
-* Bootstrapped and maintained Go ecosystem.
+* Lead developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
+* **Designed and implemented a Cassandra-based metrics system**: The system now handles over a million events / second. Successfully introduced and operated two Cassandra clusters.
+* Bootstrapped the initial Golang ecosystem @ Square.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
-### Software Engineer, Payments - Square _(2013-2014)_
+### Tech Lead, Software Engineer, Payments - Square _(2013-2014)_ - San Francisco, CA
 
-_San Francisco, CA_
-
-* **Theme**: Scalability, Reliability, Payments Integration.
-* Core payments processing infrastructure.
-* Server side development of Apple Pay support for Square's NFC card reader.
-* Evaluated databases for Square's next generation payments processing service.
-* Successfully migrated the entire payments stack from one datacenter to another.
-* Optimized queries for MySQL and PostgreSQL.
-* Implemented Zookeeper based dynamic configuration deployment system.
+* **Theme**: Scalability, Reliability, and Payments Integration.
+* **Designed and implemented Square's next generation payments processing service**: Achieved horizontal scalability via sharded MySQL and high availability via its state-of-the-art active-active design.
+* Implemented Apple Pay support for Square's NFC card reader.
+* Implemented a dynamic configuration management system now used by all backend services @ Square.
 * **Tools**: MySQL, PostgreSQL, Riak, Cassandra, Java
 
-### Cofounder - Polychart _(2012)_
+### Cofounder - Polychart _(2012)_ - Waterloo, ON
 
-_Waterloo, ON_
-
-* Technical Cofounder focused on Data Visualization.
-* Responsible for most of the programming & operational tasks.
-* Built a data visualization tool around Grammar of Graphics by Wilkinson.
-* Built a JavaScript charting library focused on customizability and expressiveness, loosely based on Hadley Wickham's ggplot2.
+Technical Cofounder of a data visualization startup.
+* Responsible for most of the programming and engineering tasks.
+* Built a data visualization tool based on _the Grammar of Graphics_ by Wilkinson.
+* Built a JavaScript charting library focused on customizability and expressiveness, based on Hadley Wickham's `ggplot2`.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
 
-### Software Engineer Intern - ContextLogic _(2011)_
+### Software Engineer Intern - ContextLogic _(2011)_ - San Francisco, CA
 
-_San Francisco, CA_
-* Early stage startup on targeted ads with focus in NLP.
-* Generated training data for document classification algorithm from public corpuses.
-* Created internal web tools to manage Hadoop jobs.
-* Created a tool to visualize the topic inferencing algorithm.
+Engineer in a early stage machine-learning startup. The company eventually pivoted to [wish.com](https://wish.com).
+
+* Various engineering tasks: Prototyping machine-learning models, data visualization, and ETL management tools.
+* Architected a Python MongoDB ORM which powers [wish.com](https://wish.com) till today.
 * **Tools**: Python, C++, JavaScript, Hadoop, Hive, EC2.
 
-### Software Engineer Intern - Google _(2010)_
+### Software Engineer Intern - Google _(2010)_ - Mountain View, CA
 
-_Mountain View, CA_
 * Built a latency profiling framework for Google App for Business team.
-* Created RPC trace analysis and validation tool as part of the above project.
+* Created RPC trace analysis and validation tools.
 * **Tools**: Java, Python
 
-### Software Engineer Intern - Foodoro _(2010)_
+### Software Engineer Intern - Foodoro _(2010)_ - San Francisco, CA
 
-_San Francisco, CA_
-* Created an e-commerce website around aggregating social commerce websites.
+* Created an e-commerce website aggregating daily deals from social commerce websites.
 * **Tools**: Python, Django, JavaScript
 
 Education
