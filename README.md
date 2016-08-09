@@ -41,11 +41,11 @@ Work Experience
 * **Lead the next-generation data pipeline project**: The system transports terabytes of data per day, featuring efficient binary protocol via Avro, reliable data delivery via Kafka, dynamic schema changes, and integration with muliple systems including Hive and Vertica.
 * **Tools**: Java, Amazon Redshift, Vertica, EC2
 
-### Tech Lead, Software Engineer, Systems Visibility - Square _(2014-2015)_ - San Francisco, CA
+### Tech Lead, Software Engineer, Visibility - Square _(2014-2015)_ - San Francisco, CA
 
 * **Theme**: Metrics, monitoring, and alerting.
 * Lead developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
-* **Designed and implemented a Cassandra-based metrics system**: The system now handles over a million events / second. Successfully introduced and operated two Cassandra clusters.
+* **Designed and implemented a Cassandra-based metrics system**: The system now handles over a million events / second. Successfully introduced and operated two geo-replicated Cassandra clusters.
 * Bootstrapped the initial Golang ecosystem @ Square.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
