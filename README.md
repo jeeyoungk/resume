@@ -61,6 +61,7 @@ Work Experience
 
 Technical Cofounder of a data visualization startup.
 * Responsible for most of the programming and engineering tasks.
+* Secured a $25,000 grant from the University of Waterloo.
 * Built a data visualization tool based on _the Grammar of Graphics_ by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, based on Hadley Wickham's `ggplot2`.
 * **Tools**: Coffeescript, Python, SVG, d3.js, knockout.js.
@@ -110,7 +111,7 @@ Technical
 Awards / Scholarship
 --------------------
 
-* Velocity Venture Fund - $25,000 grant from University of Waterloo to fund student initiated startups.
+* Velocity Venture Fund - $25,000 grant from University of Waterloo.
 * University of Waterloo President's Scholarship
 * Nortel Networks Undergraduate Scholarship
 * Queen Elizabeth II Aiming for the Top Scholarship
