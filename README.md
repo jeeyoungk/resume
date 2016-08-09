@@ -1,4 +1,4 @@
-_Last Updated Date: July 22nd, 2016_
+_Last Updated Date: Aug 9th, 2016_
 
 Jeeyoung Kim
 ============
@@ -10,16 +10,18 @@ Summary
 
 An avid engineer. My interests span from software development to algorithms and mathematics. Challenging real life problems fascinate me. I love working with different levels of abstractions at once.
 
-I was very fortunate to have a diverse set of internship while attending University of Waterloo. Started off as a simple software engineer in test automation and web development, but I gradually specialized into infrastructures and big data applications. I spent a year after graduation on Polychart, a data visualization startup.
+I'm currently at [Square](https://squareup.com). Leading many engineering teams - Payments, Visibility, and Data Infrastructure.
+Before that, I founded Polychart, a data visualization startup focusing on interactive analysis.
+
+While I was a student I interned in [various](https://google.com) [companies](https://wish.com) working on test automation, web development, and big data applications.
 
 My current interests are:
 
 * Data Warehousing
 * Distributed Systems
-* Database Systems
-* Time-series Databases
+* Database Systems, specifically Time-series Databases
 
-At the end of the day, I'm a generalist in heart. I still have much to learn, and I would love to dedicate my passion towards the company and the product that I believe in.
+At the end of the day, I'm a generalist in heart. I still have much to learn and I would love to dedicate my passion towards the company and the product that I believe in.
 
 Work Experience
 ---------------
@@ -27,19 +29,19 @@ Work Experience
 ### Engineering Manager, Data & Tools - Square _(2016-current)_ - San Francisco, CA
 
 * **Theme**: Data warehousing.
-* Managed a team of 5 engineers and core data warehousing systems managing petabytes of data.
+* Managed a team of 5 engineers and Square's core data warehouse with petabytes of data.
 * **Lead the Hadoop modernization project**: MRv1 to YARN migration, Hive upgrade, disaster recovery, and datacenter migration.
-* Lead data growth control and audit project across 10+ engineering teams.
+* Audited data growth and retention policy across 10+ engineering teams.
 * **Tools**: Java, Amazon Redshift, Vertica, EC2
 
 ### Tech Lead, Software Engineer, Data Infrastructure - Square _(2015-2016)_ - San Francisco, CA
 
 * **Theme**: Data pipeline.
-* **Lead the next-generation data warehousing project**: Exported Square's data to Amazon S3 and Redshift.
+* **Lead the next-generation data warehousing project**: Exported Square's data to S3 and Redshift.
 * **Lead the next-generation data pipeline project**: The system transports terabytes of data per day, featuring efficient binary protocol via Avro, reliable data delivery via Kafka, dynamic schema changes, and integration with muliple systems including Hive and Vertica.
 * **Tools**: Java, Amazon Redshift, Vertica, EC2
 
-### Tech Lead, Software Engineer, Visibility - Square _(2014-2015)_ - San Francisco, CA
+### Tech Lead, Software Engineer, Systems Visibility - Square _(2014-2015)_ - San Francisco, CA
 
 * **Theme**: Metrics, monitoring, and alerting.
 * Lead developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
@@ -47,7 +49,7 @@ Work Experience
 * Bootstrapped the initial Golang ecosystem @ Square.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
-### Tech Lead, Software Engineer, Payments - Square _(2013-2014)_ - San Francisco, CA
+### Tech Lead, Software Engineer, Payments Infrastructure - Square _(2013-2014)_ - San Francisco, CA
 
 * **Theme**: Scalability, Reliability, and Payments Integration.
 * **Designed and implemented Square's next generation payments processing service**: Achieved horizontal scalability via sharded MySQL and high availability via its state-of-the-art active-active design.
