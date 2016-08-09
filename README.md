@@ -60,7 +60,7 @@ Work Experience
 ### Cofounder - Polychart _(2012)_ - Waterloo, ON
 
 Technical Cofounder of a data visualization startup.
-* Responsible for most of the programming and engineering tasks.
+* Programming and engineering responsibilities.
 * Secured a $25,000 grant from the University of Waterloo.
 * Built a data visualization tool based on _the Grammar of Graphics_ by Wilkinson.
 * Built a JavaScript charting library focused on customizability and expressiveness, based on Hadley Wickham's `ggplot2`.
