@@ -45,14 +45,14 @@ Work Experience
 
 * **Theme**: Metrics, monitoring, and alerting.
 * Lead developer of [square/metrics](https://github.com/square/metrics), query language for time series data.
-* **Designed and implemented a Cassandra-based metrics system**: The system now handles over a million events / second. Successfully introduced and operated two geo-replicated Cassandra clusters.
+* **Designed and implemented a Cassandra-based metrics system**: The system now handles over a million events / second. Data is stored in hierarchies of resolution and retention policy. Successfully introduced and operated two geo-replicated Cassandra clusters.
 * Bootstrapped the initial Golang ecosystem @ Square.
 * **Tools**: Golang, Angular, Graphite, Cassandra
 
 ### Tech Lead, Software Engineer, Payments Infrastructure - Square _(2013-2014)_ - San Francisco, CA
 
 * **Theme**: Scalability, Reliability, and Payments Integration.
-* **Designed and implemented Square's next generation payments processing service**: Achieved horizontal scalability via sharded MySQL and high availability via its state-of-the-art active-active design.
+* **Designed and implemented Square's next generation payments processing service**: Achieved horizontal scalability via sharded MySQL and high availability via active/active across datacenters. Achieved 99.999% availability and 1,000 transactions per second peak traffic.
 * Implemented Apple Pay support for Square's NFC card reader.
 * Implemented a dynamic configuration management system now used by all backend services @ Square.
 * **Tools**: MySQL, PostgreSQL, Riak, Cassandra, Java
