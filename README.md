@@ -11,7 +11,7 @@ Summary
 An avid engineer. My interests span from software development to algorithms and mathematics. Challenging real life problems fascinate me. I love working with different levels of abstractions at once.
 
 I'm currently at [Square](https://squareup.com). Leading many engineering teams - Payments, Visibility, and Data Infrastructure.
-Before that, I founded Polychart, a data visualization startup focusing on interactive analysis.
+Before that, I founded [Polychart](https://github.com/Polychart/builder), a data visualization startup focusing on interactive analysis.
 
 While I was a student I interned in [various](https://google.com) [companies](https://wish.com) working on test automation, web development, and big data applications.
 
@@ -32,7 +32,8 @@ Work Experience
 * Managed a team of 5 engineers and Square's core data warehouse with petabytes of data.
 * **Lead the Hadoop modernization project**: MRv1 to YARN migration, Hive upgrade, disaster recovery, and datacenter migration.
 * Audited data growth and retention policy across 10+ engineering teams.
-* **Tools**: Java, Amazon Redshift, Vertica, EC2
+* Consolidated legacy ETL frameworks to [Apache Airflow](https://airflow.incubator.apache.org/).
+* **Tools**: Java, Amazon Redshift, Vertica, EC2, Airflow
 
 ### Tech Lead, Software Engineer, Data Infrastructure - Square _(2015-2016)_ - San Francisco, CA
 
