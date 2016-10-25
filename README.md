@@ -17,11 +17,11 @@ While I was a student I interned in [various](https://google.com) [companies](ht
 
 My current interests are:
 
-* Data Warehousing
-* Distributed Systems
-* Database Systems, specifically Time-series Databases
+* Data warehousing
+* Distributed systems
+* Database Systems, specifically time-series databases
 
-At the end of the day, I'm a generalist in heart. I still have much to learn and I would love to dedicate my passion towards the company and the product that I believe in.
+At the end of the day, I'm a generalist at heart. I still have much to learn and I would love to dedicate my passion towards the company and the product that I believe in.
 
 Work Experience
 ---------------
