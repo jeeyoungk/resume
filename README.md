@@ -10,23 +10,27 @@ Summary
 
 An avid engineer. My interests span from software development to algorithms and mathematics. Challenging real life problems fascinate me. I love working with different levels of abstractions at once.
 
-I'm currently at [Square](https://squareup.com). Leading many engineering teams - Payments, Visibility, and Data Infrastructure.
+I am currently an engineer at [Plaid](https://plaid.com). Previously I was at [Square](https://squareup.com)., leading many engineering teams - Payments, Visibility, and Data Infrastructure.
 Before that, I founded [Polychart](https://github.com/Polychart/builder), a data visualization startup focusing on interactive analysis.
 
 While I was a student I interned in [various](https://google.com) [companies](https://wish.com) working on test automation, web development, and big data applications.
 
 My current interests are:
 
+* Software architecture
 * Data warehousing
 * Distributed systems
-* Database Systems, specifically time-series databases
+* Database Systems
 
 At the end of the day, I'm a generalist at heart. I still have much to learn and I would love to dedicate my passion towards the company and the product that I believe in.
 
 Work Experience
 ---------------
 
-### Engineering Manager, Data & Tools - Square _(2016-current)_ - San Francisco, CA
+### Software Engineer - Plaid _(2017-current)_ - San Francisco, CA
+* **Theme**: Data warehousing, backend engineering.
+
+### Engineering Manager, Data & Tools - Square _(2016-2017)_ - San Francisco, CA
 
 * **Theme**: Data warehousing.
 * Managed a team of 5 engineers and Square's core data warehouse with petabytes of data.
