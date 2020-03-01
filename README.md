@@ -27,8 +27,8 @@ Work Experience
 
 ### Software Engineer - Plaid _(2017-current)_ - San Francisco, CA
 * **Theme**: Data Infrastructure, backend engineering, developer productivity
-* Bootstrapping Data Infrastructure
-* Responsible for roadmap
+* Bootstrapping Data Infrastructure for Plaid. Including - data pipeline, data warehouse, ETL pipeline, and BI tool purchase and adoption.
+* Backend infrastructure and roadmap. Responsible for multi-quarter refactoring projects to unblock product initiatives and performance bottlenecks.
 * Leading developer productivity effort, spanning from tests, CI/CD, deployments, and abstractions.
 
 ### Engineering Manager, Data & Tools - Square _(2016-2017)_ - San Francisco, CA
