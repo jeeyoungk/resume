@@ -12,19 +12,19 @@ Software Engineer & Engineering Manager.
 
 ### Plaid (2017-2022)
 
-* (2020-2022) Engineering Manager, Developer Efficiency
+* (2020) Engineering Manager, Developer Efficiency
   * 3 teams of 15 engineers responsible for the Software Development Lifecycle - CI/CD, Observability, Devleoper Environment, Common Libraries, Monorepos.
   * [Developer Efficiency @ Plaid](https://plaid.com/blog/how-we-built-developer-efficiency-at-plaid/)
   * [Scaling With Devenv](https://plaid.com/blog/scaling-with-devenv/)
-* (2018-2019) Tech Lead, Core Services
+* (2018) Tech Lead, Core Services
   * Core backend services powering Plaid's traffic orchestration services.
   * Core maintainer of Plaid's Go monorepo and shared libraries.
 * (2017) Data Engineering
   * Version 1 of Plaid's data engineering and analytics platform.
 
-### Square (2013-2022)
+### Square (2013-2017)
 
-* (2016-17) Engineering Manager, Data Engineering
+* (2016) Engineering Manager, Data Engineering
   * Data warehouse, data pipeline, Hadoop modernization.
 * (2015) Tech Lead, Data Infrastructure
   * Redshift & Airflow rollout.
