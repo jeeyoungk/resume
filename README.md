@@ -40,7 +40,7 @@ Co-founded a data visualization startup. Modern take of the [Grammar of Graphics
 
 ### Various Internship Experience
 
-* ContextLogic - now known as [wish.com](Wish.com) (2011)
+* ContextLogic - now known as [wish.com](https://wish.com) (2011)
 * Google (2010)
 
 ### Bachelor of Mathematics - University of Waterloo (2012)
