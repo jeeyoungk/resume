@@ -10,7 +10,7 @@ Summary
 
 Software Engineer & Engineering Manager.
 
-### Plaid (2017-2022)
+### <img src="./logo/plaid.png" width=16 height=16 alt="plaid"/> [Plaid](https://plaid.com) (2017-2022)
 
 * (2020) Engineering Manager, Developer Efficiency
   * 3 teams of 15 engineers responsible for the Software Development Lifecycle - CI/CD, Observability, Devleoper Environment, Common Libraries, Monorepos.
@@ -22,7 +22,7 @@ Software Engineer & Engineering Manager.
 * (2017) Data Engineering
   * Version 1 of Plaid's data engineering and analytics platform.
 
-### Square (2013-2017)
+### <img src="./logo/square.ico" width=16 height=16 alt="square"/> [Square](https://squareup.com) (2013-2017)
 
 * (2016) Engineering Manager, Data Engineering
   * Data warehouse, data pipeline, Hadoop modernization.
@@ -34,7 +34,7 @@ Software Engineer & Engineering Manager.
 * (2013) Tech Lead, Payments Infrastructure
   * Scaling Square's infrastructure from a single instance Postgres to a sharded MySQL.
 
-### Polychart (2012)
+### <img src="./logo/polychart.png" width=16 height=16 alt="polychart"/> [Polychart](https://github.com/Polychart) (2012)
 
 Co-founded a data visualization startup. Modern take of the [Grammar of Graphics / ggplot2](https://en.wikipedia.org/wiki/Ggplot2) on the browser.
 
