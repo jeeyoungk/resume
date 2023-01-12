@@ -3,7 +3,7 @@ _Last Updated Jan 2022_
 Jeeyoung Kim
 ============
 
-jeeyoungk@gmail.com / jeeyoungk.com
+jeeyoungk@gmail.com / [jeeyoungk.com](https://jeeyoungk.com)
 
 Summary
 -------
