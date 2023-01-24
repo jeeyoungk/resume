@@ -13,7 +13,7 @@ Software Engineer & Engineering Manager.
 ### <img src="./logo/plaid.png" width=16 height=16 alt="plaid"/> [Plaid](https://plaid.com) (2017-2022)
 
 * (2020) Engineering Manager, Developer Efficiency
-  * 3 teams of 15 engineers responsible for the Software Development Lifecycle - CI/CD, Observability, Devleoper Environment, Common Libraries, Monorepos.
+  * 3 teams of 20 engineers responsible for the Software Development Lifecycle - CI/CD, Observability, Devleoper Environment, Common Libraries, Monorepos.
   * [Developer Efficiency @ Plaid](https://plaid.com/blog/how-we-built-developer-efficiency-at-plaid/)
   * [Scaling With Devenv](https://plaid.com/blog/scaling-with-devenv/)
 * (2018) Tech Lead, Core Services
